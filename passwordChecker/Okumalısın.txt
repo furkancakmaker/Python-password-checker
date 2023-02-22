@@ -1,0 +1,7 @@
+Programı çalıştırırken terminalden  python check_my_pass.py kontrol etmek istediğiniz şifreyi girip enter tuşuna basın.
+
+Örnek
+------
+PS C:\Users\furkan\Desktop\Python\passwordChecker> python check_my_pass.py kgşsgksg
+kgşsgksg hiç bulunamadı. Devam edebilirsin !
+Tamamlandı !
